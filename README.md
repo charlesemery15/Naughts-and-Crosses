@@ -46,3 +46,9 @@ As a Player
 So I can win
 I would like the game to confirm when I win
 ```
+Tech stack
+----------
+* Javascript
+* Jasmine (testing framework)
+* BDD with TDD
+* Agile approach 
